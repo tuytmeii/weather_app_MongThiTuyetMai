@@ -1,0 +1,65 @@
+{
+  "@@locale": "vi",
+
+  "hourlyForecast": "Dự báo theo giờ",
+  "dailyForecast": "Dự báo 5 ngày",
+  "weatherDetails": "Chi tiết thời tiết",
+
+  "temperatureUnit": "Đơn vị nhiệt độ",
+  "tempUnitChanged": "Đã thay đổi đơn vị nhiệt độ",
+
+  "windSpeedUnit": "Đơn vị tốc độ gió",
+  "windUnitChanged": "Đã thay đổi đơn vị tốc độ gió",
+
+  "timeFormat": "Định dạng thời gian",
+  "time24h": "Định dạng 24 giờ",
+  "time12h": "Định dạng 12 giờ",
+
+  "language": "Ngôn ngữ",
+  "languageChanged": "Đã thay đổi ngôn ngữ ứng dụng",
+  "appLanguage": "Ngôn ngữ ứng dụng",
+
+  "useLocation": "Sử dụng vị trí hiện tại",
+  "autoDetectLocation": "Tự động phát hiện vị trí",
+
+  "notifications": "Thông báo",
+  "weatherNotifications": "Thông báo thời tiết",
+  "receiveAlerts": "Nhận cảnh báo thời tiết",
+
+  "clearCache": "Xóa bộ nhớ đệm",
+  "cacheCleared": "Đã xóa bộ nhớ đệm",
+
+  "clearSearchHistory": "Xóa lịch sử tìm kiếm",
+  "historyCleared": "Đã xóa lịch sử tìm kiếm",
+
+  "about": "Giới thiệu",
+  "version": "Phiên bản",
+
+  "units": "Đơn vị",
+  "wind": "Gió",
+  "humidity": "Độ ẩm",
+  "pressure": "Áp suất",
+  "visibility": "Tầm nhìn",
+  "windSpeed": "Tốc độ gió",
+
+  "location": "Vị trí",
+
+  "weatherForecast": "Dự báo thời tiết",
+  "hourly": "Theo giờ",
+  "daily": "Theo ngày",
+  "noForecastData": "Không có dữ liệu dự báo",
+
+  "noWeatherData": "Không có dữ liệu thời tiết",
+  "getWeather": "Lấy thời tiết",
+  "useCurrentLocation": "Sử dụng vị trí hiện tại",
+  "searchCity": "Tìm kiếm thành phố",
+  "settings": "Cài đặt",
+
+  "locationServiceDisabled": "Dịch vụ vị trí đang bị tắt. Vui lòng bật trong cài đặt.",
+  "locationPermissionDenied": "Quyền truy cập vị trí đã bị từ chối.",
+  "locationPermissionRequired": "Ứng dụng cần quyền truy cập vị trí để hoạt động.",
+
+  "data": "Dữ liệu",
+  "removeCache": "Xóa bộ nhớ đệm",
+  "removeSearchHistory": "Xóa lịch sử tìm kiếm"
+}

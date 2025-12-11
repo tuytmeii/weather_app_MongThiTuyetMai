@@ -1,0 +1,66 @@
+{
+  "@@locale": "en",
+
+  "hourlyForecast": "Hourly Forecast",
+  "dailyForecast": "5-Day Forecast",
+  "weatherDetails": "Weather Details",
+
+  "temperatureUnit": "Temperature Unit",
+  "tempUnitChanged": "Temperature unit updated",
+
+  "windSpeedUnit": "Wind Speed Unit",
+  "windUnitChanged": "Wind speed unit updated",
+
+  "timeFormat": "Time Format",
+  "time24h": "24-hour format",
+  "time12h": "12-hour format",
+
+  "language": "Language",
+  "languageChanged": "Language updated",
+  "appLanguage": "App Language",
+
+  "useLocation": "Use Current Location",
+  "autoDetectLocation": "Auto detect location",
+
+  "notifications": "Notifications",
+  "weatherNotifications": "Weather Notifications",
+  "receiveAlerts": "Receive alerts",
+
+  "clearCache": "Clear Cache",
+  "cacheCleared": "Cache cleared",
+
+  "clearSearchHistory": "Clear Search History",
+  "historyCleared": "Search history cleared",
+
+  "about": "About",
+  "version": "Version",
+
+  "units": "Units",
+  "wind": "Wind",
+  "humidity": "Humidity",
+  "pressure": "Pressure",
+  "visibility": "Visibility",
+
+  "windSpeed": "Wind Speed",
+
+  "location": "Location",
+
+  "weatherForecast": "Weather Forecast",
+  "hourly": "Hourly",
+  "daily": "Daily",
+  "noForecastData": "No forecast data available",
+
+  "noWeatherData": "No weather data available",
+  "getWeather": "Get Weather",
+  "useCurrentLocation": "Use Current Location",
+  "searchCity": "Search City",
+  "settings": "Settings",
+
+  "locationServiceDisabled": "Location services are disabled. Please enable them in settings.",
+  "locationPermissionDenied": "Location permission denied.",
+  "locationPermissionRequired": "Location permission is required to get weather for your location.",
+
+  "data": "Data",
+  "removeCache": "Remove cache",
+  "removeSearchHistory": "Remove search history"
+}
