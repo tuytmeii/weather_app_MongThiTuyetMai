@@ -14,9 +14,9 @@ Một ứng dụng thời tiết đẹp mắt và trực quan được xây dự
     <td><img src="assets/screenshots/Weather_detail.png" width="250"/></td>
   </tr>
   <tr>
-    <td align="center">Trời Nắng</td>
-    <td align="center">Trời Nhiều Mây</td>
-    <td align="center">Trời Mưa</td>
+    <td align="center">Trang chủ</td>
+    <td align="center">Dự báo thời tiết trước 5 ngày</td>
+    <td align="center">Chi tiết thời tiết</td>
   </tr>
 </table>
 
@@ -30,6 +30,7 @@ Một ứng dụng thời tiết đẹp mắt và trực quan được xây dự
   </tr>
   <tr>
     <td align="center">Dự báo 5 Ngày</td>
+    <td align="center">Cài đặt</td>
     <td align="center">Cài đặt</td>
     <td align="center">Màn hình Tìm kiếm</td>
   </tr>
